@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **kang-yg/kang-yg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+# <div align=center>Android developer YG <a href="https://cosmic-moustache-4f0.notion.site/YG-s-Work-Life-2c66b72f53864dea986c3c5352e797b2"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a></div> 
+## <div align=center>⚡Skill</br></br> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> </br></br></br> 🏢Career</br></br> CRSCube (2020.12.14 ~ 2022.03.14) </br> DreamSecurity (2022.06.07 ~ )</br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-yg&show_icons=true&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com/?user=kang-yg)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-yg&show_icons=true&theme=radical)
+
 
 
