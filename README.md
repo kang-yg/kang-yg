@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <img src="https://img.shields.io/badge/Android-#3DDC84?style=flat&logo=Android&logoColor=white"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-yg&show_icons=true&theme=radical)
+
+
